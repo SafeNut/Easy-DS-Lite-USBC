@@ -11,3 +11,6 @@ Here is a photo of what the ribbon looks like with lables
 
 ![IMG_20251126_170519_783](https://github.com/user-attachments/assets/b869d001-ab66-4aae-a1a4-cb9837511271)
 this is an image of what it looks like installed in a system (note the image contains a previous version with smaller resistors)
+
+This is a link to the port I used however it should work with any 6pin through hole usb c power delivery port
+https://www.digikey.ca/en/products/detail/gct/USB4125-GF-A/13547388
